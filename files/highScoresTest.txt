@@ -1,0 +1,12 @@
+240, Catherine
+200, Anne
+50, Chris
+50,Catherine
+200, Anne
+60, Spencer
+210, Sharon
+220,Sharon
+100,Thy
+300, Jake
+10, Catherine
+20, Chris
